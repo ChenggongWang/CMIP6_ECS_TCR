@@ -12,4 +12,4 @@ Use the 1pctCO2 experiment to calcualte the transient climate senstivity (TCR):
 
 The results for different cmip6 model are listed in json file: `ECS_EffCS_TCR_TCR140.json`
 
-See CMIP5 values and detailed feedback values at Mark Zelinka's Github repo [`cmip56_forcing_feedback_ecs`](https://github.com/mzelinka/cmip56_forcing_feedback_ecs)
+See CMIP5 and detailed feedback values at Mark Zelinka's Github repo [`cmip56_forcing_feedback_ecs`](https://github.com/mzelinka/cmip56_forcing_feedback_ecs)
